@@ -4,6 +4,7 @@
  * To contain application wide settings, routes, state, etc.
  */
 
+
 import React from "react";
 
 import About from "./Components/About";
@@ -24,15 +25,15 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Drew Chambers",
+  title: "Frontend Developer",
+  email: "drew@email.com",
+  gitHub: "https://github.com/DrewChambs",
+  instagram: "",
+  linkedIn: "",
   medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
